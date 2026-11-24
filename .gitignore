@@ -1,0 +1,4 @@
+run*/
+*.json
+.env
+__pycache__/
